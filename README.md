@@ -1,11 +1,12 @@
 <h1>ExpNo 4 : Implement A* search algorithm for a Graph</h1> 
-<h3>Name: HAREESH R    </h3>
-<h3>Register Number: 212223230068     </h3>
+<h3>Name: HAREESH R  </h3>
+<h3>Register Number: 212223230068         </h3>
 <H3>Aim:</H3>
 <p>To ImplementA * Search algorithm for a Graph using Python 3.</p>
 <H3>Algorithm:</H3>
-```
-A* Search Algorithm
+
+``````
+// A* Search Algorithm
 1.  Initialize the open list
 2.  Initialize the closed list
     put the starting node on the open 
@@ -46,8 +47,8 @@ A* Search Algorithm
   
     e) push q on the closed list
     end (while loop)
-```
 
+``````
 
 <hr>
 <h2>Sample Graph I</h2>
